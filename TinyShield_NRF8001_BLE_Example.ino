@@ -10,7 +10,6 @@ uint8_t ble_rx_buffer[21];
 uint8_t ble_rx_buffer_len = 0;
 
 //when using this project in the Arduino IDE, delete the following include and rename UART.h to UART.ino
-#include "UART.h"
 
 void setup(void)
 {
